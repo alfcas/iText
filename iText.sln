@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iText", "iText\iText.csproj", "{76926BCD-0D33-43D4-B4B5-3D07DB765ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSign", "PdfSign\PdfSign.csproj", "{F90514AD-1ABA-4388-9C5E-EFAA5FBF03B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76926BCD-0D33-43D4-B4B5-3D07DB765ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76926BCD-0D33-43D4-B4B5-3D07DB765ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76926BCD-0D33-43D4-B4B5-3D07DB765ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76926BCD-0D33-43D4-B4B5-3D07DB765ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90514AD-1ABA-4388-9C5E-EFAA5FBF03B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90514AD-1ABA-4388-9C5E-EFAA5FBF03B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90514AD-1ABA-4388-9C5E-EFAA5FBF03B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90514AD-1ABA-4388-9C5E-EFAA5FBF03B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACDF200-5CC8-49D3-9FD1-1B656D383FCA}
+	EndGlobalSection
+EndGlobal
